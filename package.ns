@@ -1,0 +1,8 @@
+name.version
+"KTX2JMG".1
+
+lib.dependencies
+"./lib"."ktx, jmg, std"
+
+export.hash
+"Release"."ca65b99082adda456c9198338e2525a3"
