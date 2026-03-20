@@ -2,6 +2,7 @@
 
 ```ns
 ns prepare -dev ./lib
+ns pack -dev ./lib ./pack
 ns build -dev ./src
 ```
 
